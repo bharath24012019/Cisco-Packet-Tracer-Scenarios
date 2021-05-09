@@ -1,0 +1,11 @@
+https://www.instructables.com/Configure-VLAN-in-Cisco-Packet-Tracer/
+
+https://www.instructables.com/How-to-Configure-DHCP-in-Cisco-Packet-Tracer/#:~:text=%20How%20to%20Configure%20DHCP%20in%20Cisco%20Packet,the%20router.%20We%20must%20be%20very...%20More%20
+
+https://www.timigate.com/2018/05/how-to-configure-multiple-dhcp-for-different-vlans-in-cisco-packet-tracer.html
+
+https://www.computernetworkingnotes.com/ccna-study-guide/configure-dhcp-server-for-multiple-vlans-on-the-switch.html
+
+https://itexamanswers.net/encapsulation-dot1q-command-on-cisco-router-switch.html
+
+https://itexamanswers.net/show-ip-dhcp-pool-command-on-cisco-router-switch.html
